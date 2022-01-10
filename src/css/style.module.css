@@ -1,0 +1,70 @@
+
+.header{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.main{
+    padding: 50px 300px;
+}
+
+.inp{
+    width: 70%;
+    height: 50px;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.inpDiv{
+    padding: 20px 0px 20px 0px;
+}
+
+.selec{
+    height: 40px;
+    width: 300px;
+    font-size: 20px;
+    padding: 0 10px 0 10px;
+    margin: 0 10px 0 10px;
+    cursor: pointer;
+}
+
+.inp2{
+    height: 40px;
+    width: 300px;
+    font-size: 20px;
+    padding: 0 10px 0 10px;
+    margin: 0 10px 0 10px;
+}
+
+.btn{
+    height: 40px;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: cornsilk;
+    cursor: pointer;
+}
+
+label{
+    font-size: 30px;
+}
+
+ul li{
+    text-align: left;
+}
+
+.btn2{
+    height: 50px;
+    font-size: 20px;
+    margin: 20px 0 20px 0;
+    background-color: forestgreen;
+    color: white;
+    cursor: pointer;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+}
